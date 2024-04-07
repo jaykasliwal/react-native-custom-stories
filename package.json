@@ -1,0 +1,33 @@
+{
+  "name": "react-native-custom-stories",
+  "version": "1.0.0",
+  "description": "A simple and Customizable React Native component inspired by Whatsapp & Instagram stories, featuring video support, Progress bar handling with animation  and intelligent caching. Engage users like never before!⭐✨🌟",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native-stories",
+    "react-native-custom-stories",
+    "custom-stoires",
+    "insta",
+    "stories",
+    "whatsapp-stories",
+    "video",
+    "reel",
+    "reels",
+    "instagram-stories",
+    "insta-stories"
+  ],
+  "author": "jaykasliwal17 <jaykasliwal17@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "react-native-async-storage": "^0.0.1",
+    "react-native-fs": "^2.20.0",
+    "react-native-gesture-handler": "^2.16.0",
+    "react-native-linear-gradient": "^2.8.3",
+    "react-native-portalize": "^1.0.7",
+    "react-native-video": "^5.2.1"
+  }
+}
