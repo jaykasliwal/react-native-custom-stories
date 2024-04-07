@@ -1,6 +1,6 @@
 {
   "name": "react-native-custom-stories",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple and Customizable React Native component inspired by Whatsapp & Instagram stories, featuring video support, Progress bar handling with animation  and intelligent caching. Engage users like never before!⭐✨🌟",
   "main": "index.js",
   "scripts": {
