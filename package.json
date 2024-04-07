@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": "https://github.com/jaykasliwal/react-native-custom-stories",
+  "homepage": "https://github.com/jaykasliwal/react-native-custom-stories",
+  "bugs": "https://github.com/jaykasliwal/react-native-custom-stories/issues",
   "keywords": [
     "react-native-stories",
     "react-native-custom-stories",
